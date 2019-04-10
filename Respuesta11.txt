@@ -1,0 +1,3 @@
+- RISC
+- 8MHz to 31 kHz
+- 368
